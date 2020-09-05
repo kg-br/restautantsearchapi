@@ -1,6 +1,8 @@
 # flutterzomato
 
-A new Flutter project.
+Restaurant Searching application using Zomato api in Flutter
+
+Use your own api key by logging into the zomato developers portal and use it inside the application.
 
 ## Getting Started
 
